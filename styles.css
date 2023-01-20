@@ -12,7 +12,6 @@ h2 {
     float: right;
     width: 30%;
     margin-top: 0px;
-    font-size: 125%;
     text-align: center;
     border-left: 3px solid black;
     border-bottom: 3px solid black;
@@ -91,6 +90,7 @@ p {
 
     .div3 {
         width: 100%;
+        
     }
 }
 
