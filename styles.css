@@ -53,21 +53,21 @@ p {
 /********** Desktop devices only **********/
 @media (min-width: 992px) {
 
-    .block1,
-    .block2,
-    .block3 {
+    .div1,
+    .div2,
+    .div3 {
         float: left;
     }
 
-    .block1 {
+    .div1 {
         width: 33.33%;
     }
 
-    .block2 {
+    .div2 {
         width: 33.33%;
     }
 
-    .block3 {
+    .div3 {
         width: 33.33%;
     }
 }
@@ -75,36 +75,36 @@ p {
 /********** Tablet devices only **********/
 @media (min-width: 768px) and (max-width: 991px) {
 
-    .block1,
-    .block2,
+    .div1,
+    .div2,
     .block3 {
         float: left;
     }
 
-    .block1 {
+    .div1 {
         width: 50%;
     }
 
-    .block2 {
+    .div2 {
         width: 50%;
     }
 
-    .block3 {
+    .div3 {
         width: 100%;
     }
 }
 
 /********** Mobile devices only **********/
 @media (max-width: 767px) {
-    .block1 {
+    .div1 {
         width: 100%;
     }
 
-    .block2 {
+    .div2 {
         width: 100%;
     }
 
-    .block3 {
+    .div3 {
         width: 100%;
     }
 }
